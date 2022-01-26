@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything you want.**
 
-- 👨‍💻 All of my projects are available at https://asifhjahid.netlify.app
+- 👨‍💻 All of my projects are available at https://asifh.netlify.app
 
 - 📫 How to reach me **asifdhrubo.cse@gmail.com**
 
