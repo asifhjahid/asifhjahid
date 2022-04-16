@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **anything you want.**
 
-- 👨‍💻 All of my projects are available at https://asifh.netlify.app
+- 👨‍💻 All of my projects are available at https://asifhjahid.netlify.app
 
-- 📫 How to reach me **asifdhrubo.cse@gmail.com**
+- 📫 How to reach me **asifhjahid@gmail.com**
 
 - ⚡ Fun fact **I love to travel and love to learn something new.**
 
